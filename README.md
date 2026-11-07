@@ -49,3 +49,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dabrogost&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dabrogost&theme=github_dark" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dabrogost/Dabrogost/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dabrogost/Dabrogost/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Dabrogost/Dabrogost/output/github-snake-dark.svg" />
+  </picture>
+</p>
